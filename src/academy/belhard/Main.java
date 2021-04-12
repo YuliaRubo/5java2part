@@ -14,6 +14,6 @@ public class Main {
 
 
         System.out.println(man2.getFullInfo());
-
+        System.out.println(man2.isPasswordCorrect("hfh"));
     }
 }
